@@ -1,4 +1,4 @@
-<h1> Correlation Analysis on MLB Data </h1> 
+<h3> Correlation Analysis on MLB Data </h3> 
 
 This is a little project I did exploring a sample data set I obtained from the 2014 MLB season. Using 10 teams comprising
 the AL East and NL East divisions, I wanted to find out if a team's batting average (the response variable) is connected in any way on the 
